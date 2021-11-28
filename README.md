@@ -1,5 +1,6 @@
 # ERC20
-Standard Token in solidity imported from OpenZeppelin
-with new minting as well as burn
+A standard ERC 20 token written in Solidity to be deployed on Ethereum. The standard was imported from OpenZeppelin for more efficient coding
 
-tokenomics: 27 thousnad tokens with 18 decimals
+New Minting as well as a burn function are integrated.
+
+tokenomics: 27 thousand tokens with 18 decimals.
